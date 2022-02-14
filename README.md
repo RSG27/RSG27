@@ -5,9 +5,9 @@
 
 # Sobre mim
 
-- 🙏 Espiritualidade acima de tudo
+🙏 Espiritualidade acima de tudo
 
--💻 Estudando HTML5, CSS3 e Javascript (Front-end)
+💻 Estudando HTML5, CSS3 e Javascript (Front-end)
 <br>
 
 <div style: "dipslay: inline-block;">
