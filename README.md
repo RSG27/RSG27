@@ -6,7 +6,7 @@
 # Sobre mim
 
 - 🙏 Espiritualidade acima de tudo
-<br>
+
 -💻 Estudando HTML5, CSS3 e Javascript (Front-end)
 <br>
 
