@@ -9,7 +9,7 @@
 💻 Estudando HTML5, CSS3 e Javascript (Front-end)
 <br>
 
-# Linguagens
+# Linguagens e Versionador de Código
 
 <div style: "dipslay: inline-block;">
 <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
