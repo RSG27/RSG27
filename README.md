@@ -25,11 +25,6 @@
 <br>
 
 <h2 align="center">Redes e SO's</h2>
-
-<div align="center">
-  <img  align="center" src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)" />
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white)
-</div>
   
 <br>
   
