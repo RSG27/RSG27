@@ -6,16 +6,14 @@
   💻 Estudando HTML5, CSS3 e Javascript (Front-end)
 </p>
 
-<h2 align="center">Redes</h2>
-
-<img  align="center" src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)" />
-
-<br>
+<h2 align="center">Status</h2>
 
 <div align="center">
   <a href="https://github.com/RSG27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
 </div>
+
+<br>
   
 <h2 align="center">Tecnologias Utilizadas</h2>
   
