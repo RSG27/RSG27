@@ -5,11 +5,11 @@
 💻 Estudando HTML5, CSS3 e Javascript (Front-end)
 <br>
 
-<div style= "display: inline-block;"><br>
+<div style= "display: inline-block;">>
   <a href="https://github.com/RSG27/github-readme-stats">
     <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=shades-of-purple" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&theme=shades-of-purple" />
-</div>
+</div><br
 
 <div style= "display: inline-block;>
   <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
