@@ -1,6 +1,6 @@
 # Olá, sou Ruan! :D
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)
