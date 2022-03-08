@@ -23,9 +23,11 @@
   
 <br>
  
-### Redes Sociais
+### Contatos e Redes Sociais
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 <br>
   
