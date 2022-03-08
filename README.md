@@ -6,10 +6,10 @@
 
 <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/RSG27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  </div>
+</div>
   
 ### Tecnologias Utilizadas
   
