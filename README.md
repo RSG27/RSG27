@@ -1,9 +1,9 @@
-<div align="center">
-Olá, Bem vindo ao  meu repositório sou Ruan! :D
+<h2 align="center">Olá, Bem vindo ao  meu repositório sou Ruan! :D</h2>
 
-🙏 Espiritualidade acima de tudo
-💻 Estudando HTML5, CSS3 e Javascript (Front-end)
-</div>
+<p align="center">
+  🙏 Espiritualidade acima de tudo
+  💻 Estudando HTML5, CSS3 e Javascript (Front-end)
+</p>
 
 <br>
 
