@@ -16,10 +16,8 @@
 <div style="align-content: center;"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&langs_count=6&theme=shades-of-purple"/>
   <br><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+  </div>
   
 <br>
  
