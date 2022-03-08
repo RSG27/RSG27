@@ -19,7 +19,7 @@
   <img align="center" alt="Ruan_VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />
 </div>
 
-# Redes Sociais
+### Redes Sociais
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)
 
