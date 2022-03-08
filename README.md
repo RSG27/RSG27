@@ -1,4 +1,4 @@
-# Olá, sou Ruan! :D
+# Olá, Bem vindo ao  meu repositório sou Ruan! :D
 
 🙏 Espiritualidade acima de tudo
 
