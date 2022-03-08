@@ -25,8 +25,8 @@
  
 ### Redes e SO's
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)
-[!Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)](https://www.linkedin.com/in/ruan-silva-gaspar-a13a89226/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
   
