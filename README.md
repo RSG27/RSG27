@@ -1,8 +1,11 @@
 # Olá, sou Ruan! :D
 
-![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RSG27&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact=RSG27&theme=algolia)](https://github.com/anuraghazr/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 # Redes Sociais
 
