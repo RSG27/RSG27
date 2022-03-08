@@ -9,7 +9,7 @@
 <a href="https://github.com/RSG27/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&theme=algolia" />
 </a>
-
+<br>
 <div style: "display: inline-block;">
 <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
