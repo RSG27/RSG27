@@ -1,13 +1,13 @@
 # Olá, sou Ruan! :D
 
 <a href="https://github.com/RSG27/github-readme-stats">
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=algolia" />
+  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=shades-of-purple" />
 </a>
 
 # Linguagens e Versionador de Código
 <div>
 <a href="https://github.com/RSG27/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&theme=algolia" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&theme=shades-of-purple" />
 </a>
 </div>
 </br>
