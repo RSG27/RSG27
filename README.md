@@ -1,16 +1,14 @@
 # Olá, sou Ruan! :D
-
-<a href="https://github.com/RSG27/github-readme-stats">
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=shades-of-purple" />
-</a>
-
-# Linguagens e Versionador de Código
 <div>
-<a href="https://github.com/RSG27/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&theme=shades-of-purple" />
-</a>
+  <a href="https://github.com/RSG27/github-readme-stats">
+    <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RSG27&show_icons=true&theme=shades-of-purple" />
+  </a>
 </div>
-</br>
+<div style="display: inline-block"><br>
+  <a href="https://github.com/RSG27/convoychat">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSG27&layout=compact&theme=shades-of-purple" />
+  </a>
+</div>
 
 <div style: "display: inline-block;">
 <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
