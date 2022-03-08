@@ -2,7 +2,7 @@
 
 <p align="center">
   🙏 Espiritualidade acima de tudo
-  <br>
+  <br><br>
   💻 Estudando HTML5, CSS3 e Javascript (Front-end)
 </p>
 
